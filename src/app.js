@@ -96,9 +96,9 @@ async function openAssessment(areaSlug){
       const suggestions=it.suggestions||[];
       const displayName = (it.name||'').startsWith(`${it.number} `) ? (it.name||'').slice((it.number||'').length+1) : (it.name||'');
       const displayStatement = (it.statement||'').startsWith(`${it.number} `) ? (it.statement||'').slice((it.number||'').length+1) : (it.statement||'');
-      return `<article class="item"><small>${esc(it.section_name||'')}</small><h3>${esc(it.number)} ${esc(displayName)}</h3><p>${esc(displayStatement)}</p>`
-      return `<article class="item"><small>${esc(it.section_name||'')}</small><h3>${esc(it.number)} ${esc(displayName)}</h3><p>${esc(displayStatement)}</p>` +
-      <div class="improve ${rating>0&&rating<=3?'':'hide'}" id="imp-${it.id}">
+      return `<article class="item"><small>${esc(it.section_name||'')}</small><h3>${esc(it.number)} ${esc(displayName)}</h3><p>${esc(displayStatement)}</p>
+       <div class="ratings">${[1,2,3,4,5].map(v=>`<button class="${rating===v?'sel':''}" data-rate="${it.id}:${v}">${v}</button>`).join('')}</div>
+       <div class="improve ${rating>0&&rating<=3?'':'hide'}" id="imp-${it.id}">
        <label>Finding / Current Situation<textarea data-field="finding:${it.id}">${esc(r.finding||'')}</textarea></label>
        <h4>Choose suggested improvements</h4>
        ${suggestions.map((s,j)=>`<label class="suggest"><input type="checkbox" data-suggestion="${it.id}:${j}" ${(r.selected_suggestions||[]).includes(j)?'checked':''}><span><b>${esc(s.title)}</b><small>${esc(s.recommendation)}</small></span></label>`).join('')}
@@ -111,7 +111,7 @@ async function openAssessment(areaSlug){
        <label>Estimated Budget<input type="number" data-field="budget:${it.id}" value="${esc(r.estimated_budget??'')}"></label>
        <label>Status<select data-field="status:${it.id}">${['Not Started','In Progress','Completed','Deferred','Not Applicable'].map(x=>`<option ${r.status===x?'selected':''}>${x}</option>`).join('')}</select></label>
        <label>Progress / Follow-up<textarea data-field="progress:${it.id}">${esc(r.progress||'')}</textarea></label></div>
-      </div></article>`;
+       </div></article>`;
     }).join('');
     const pct=Math.round(scored/its.length*100); $('pct').textContent=pct+'%'; $('fill').style.width=pct+'%'; $('count').textContent=`${scored} of ${its.length} items rated`;
   };
