@@ -79,11 +79,26 @@ async function openAssessment(areaSlug){
   const area=areas.find(a=>a.slug===areaSlug);
   const {data:its,error:itemError}=await supabase.from('assessment_items').select('*').eq('area_slug',areaSlug).order('sort_order');
   if(itemError)return alert(itemError.message);
-  let {data:assessment}=await supabase.from('assessments').select('*').eq('school_id',school.id).eq('area_slug',areaSlug).maybeSingle();
-  if(!assessment){
-    const ins=await supabase.from('assessments').insert({school_id:school.id,area_slug:areaSlug}).select().single();
-    if(ins.error)return alert(ins.error.message); assessment=ins.data;
-  }
+  let {data:assessment}=await supabase.from('assessments')
+  .select('*')
+  .eq('school_id',school.id)
+  .eq('area_slug',areaSlug)
+  .eq('completed_by',session.id)
+  .maybeSingle();
+
+if(!assessment){
+  const ins=await supabase.from('assessments')
+    .insert({
+      school_id:school.id,
+      area_slug:areaSlug,
+      completed_by:session.id
+    })
+    .select()
+    .single();
+
+  if(ins.error)return alert(ins.error.message);
+  assessment=ins.data;
+}
   const {data:responses}=await supabase.from('assessment_responses').select('*').eq('assessment_id',assessment.id);
   const byItem=Object.fromEntries((responses||[]).map(r=>[r.item_id,r]));
   setHeader(area.name,'Rate each item from 1–5. Ratings 1–3 open the improvement workspace.');
