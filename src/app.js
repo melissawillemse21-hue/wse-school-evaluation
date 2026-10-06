@@ -94,14 +94,16 @@ async function openAssessment(areaSlug){
     $('items').innerHTML=its.map((it,n)=>{
       const r=byItem[it.id]||{}, rating=r.rating||0; if(rating)scored++;
       const suggestions=it.suggestions||[];
-      return `<article class="item"><small>${esc(it.section_name||'')}</small><h3>${esc(it.number)} ${esc(it.name)}</h3><p>${esc(it.statement)}</p>
+      const displayName = (it.name||'').startsWith(`${it.number} `) ? (it.name||'').slice((it.number||'').length+1) : (it.name||'');
+      const displayStatement = (it.statement||'').startsWith(`${it.number} `) ? (it.statement||'').slice((it.number||'').length+1) : (it.statement||'');
+      return `<article class="item"><small>${esc(it.section_name||'')}</small><h3>${esc(it.number)} ${esc(displayName)}</h3><p>${esc(displayStatement)}</p>`
       <div class="ratings">${[1,2,3,4,5].map(v=>`<button class="${rating===v?'sel':''}" data-rate="${it.id}:${v}">${v}</button>`).join('')}</div>
       <div class="improve ${rating>0&&rating<=3?'':'hide'}" id="imp-${it.id}">
        <label>Finding / Current Situation<textarea data-field="finding:${it.id}">${esc(r.finding||'')}</textarea></label>
        <h4>Choose suggested improvements</h4>
        ${suggestions.map((s,j)=>`<label class="suggest"><input type="checkbox" data-suggestion="${it.id}:${j}" ${(r.selected_suggestions||[]).includes(j)?'checked':''}><span><b>${esc(s.title)}</b><small>${esc(s.recommendation)}</small></span></label>`).join('')}
-       <label><input type="checkbox" data-own="${it.id}" ${r.own_improvement?'checked':''}> My own improvement</label>
-       <textarea data-field="own:${it.id}" placeholder="Describe your own improvement">${esc(r.own_improvement||'')}</textarea>
+       <label><b>My own improvement</b>
+       <textarea data-field="own:${it.id}" placeholder="Describe your own improvement">${esc(r.own_improvement||'')}</textarea></label>
        <div class="two"><label>Recommendation<textarea data-field="recommendation:${it.id}">${esc(r.recommendation||'')}</textarea></label><label>Action Required<textarea data-field="action:${it.id}">${esc(r.action_required||'')}</textarea></label>
        <label>Responsible Person<input data-field="responsible:${it.id}" value="${esc(r.responsible_person||'')}"></label>
        <label>Priority<select data-field="priority:${it.id}"><option></option>${['High','Medium','Low'].map(x=>`<option ${r.priority===x?'selected':''}>${x}</option>`).join('')}</select></label>
