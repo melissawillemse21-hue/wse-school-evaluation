@@ -64,7 +64,7 @@ function renderShell(){
   document.querySelectorAll('[data-page]').forEach(b=>b.onclick=()=>navigate(b.dataset.page));
   $('logout').onclick=logout;
 }
-function canAccess(areaSlug){ return member.role==='admin' || (member.assigned_area_slugs||[]).includes(areaSlug); }
+function canAccess(areaSlug){ return true; }
 async function dashboard(){
   setHeader('Dashboard','Your school evaluation overview');
   const {data:assessments}=await supabase.from('assessments').select('*, assessment_responses(rating)').eq('school_id',school.id);
