@@ -97,7 +97,7 @@ async function openAssessment(areaSlug){
       const displayName = (it.name||'').startsWith(`${it.number} `) ? (it.name||'').slice((it.number||'').length+1) : (it.name||'');
       const displayStatement = (it.statement||'').startsWith(`${it.number} `) ? (it.statement||'').slice((it.number||'').length+1) : (it.statement||'');
       return `<article class="item"><small>${esc(it.section_name||'')}</small><h3>${esc(it.number)} ${esc(displayName)}</h3><p>${esc(displayStatement)}</p>`
-      <div class="ratings">${[1,2,3,4,5].map(v=>`<button class="${rating===v?'sel':''}" data-rate="${it.id}:${v}">${v}</button>`).join('')}</div>
+      return `<article class="item"><small>${esc(it.section_name||'')}</small><h3>${esc(it.number)} ${esc(displayName)}</h3><p>${esc(displayStatement)}</p>` +
       <div class="improve ${rating>0&&rating<=3?'':'hide'}" id="imp-${it.id}">
        <label>Finding / Current Situation<textarea data-field="finding:${it.id}">${esc(r.finding||'')}</textarea></label>
        <h4>Choose suggested improvements</h4>
