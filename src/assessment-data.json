@@ -1,0 +1,1841 @@
+{
+  "areas": [
+    {
+      "slug": "basic-functionality-of-the-school",
+      "name": "Basic Functionality of the School",
+      "sort_order": 1
+    },
+    {
+      "slug": "school-safety-security-and-discipline",
+      "name": "School Safety, Security and Discipline",
+      "sort_order": 2
+    },
+    {
+      "slug": "school-infrastructure",
+      "name": "School Infrastructure",
+      "sort_order": 3
+    },
+    {
+      "slug": "quality-teaching-learning-and-educator-development",
+      "name": "Quality of Teaching, Learning and Educator Development",
+      "sort_order": 4
+    },
+    {
+      "slug": "parents-and-community",
+      "name": "Parents and Community",
+      "sort_order": 5
+    },
+    {
+      "slug": "learner-achievements",
+      "name": "Learner Achievements",
+      "sort_order": 6
+    },
+    {
+      "slug": "leadership-management-and-communication",
+      "name": "Leadership, Management and Communication",
+      "sort_order": 7
+    },
+    {
+      "slug": "governance-and-relationships",
+      "name": "Governance and Relationships",
+      "sort_order": 8
+    },
+    {
+      "slug": "curriculum-provision-and-resources",
+      "name": "Curriculum Provision and Resources",
+      "sort_order": 9
+    }
+  ],
+  "items": [
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "1.1",
+      "section_name": "Section 1",
+      "name": "1.1 All School Policies",
+      "statement": "1.1 All School Policies",
+      "sort_order": 1,
+      "source_improvement_options": [
+        "Admissions Policy",
+        "Religion Policy",
+        "Language Policy",
+        "Finance Policy",
+        "Maintenance Policy",
+        "Learner Inclusion Policy",
+        "LTSM Policy",
+        "Health, Safety and Security Policy",
+        "Asset Policy",
+        "School Assessment Policy",
+        "ICT Policy",
+        "General School Policy"
+      ],
+      "suggestions": [
+        {
+          "title": "Admissions Policy",
+          "recommendation": "Review and strengthen admissions policy in relation to this assessment item."
+        },
+        {
+          "title": "Religion Policy",
+          "recommendation": "Review and strengthen religion policy in relation to this assessment item."
+        },
+        {
+          "title": "Language Policy",
+          "recommendation": "Review and strengthen language policy in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "1.2",
+      "section_name": "Section 1.2",
+      "name": "1.2 School Code of Conduct",
+      "statement": "1.2 School Code of Conduct",
+      "sort_order": 2,
+      "source_improvement_options": [],
+      "suggestions": [
+        {
+          "title": "Review current practice for 1.2 School Code of Conduct",
+          "recommendation": "Review the current approach to 1.2 school code of conduct and identify a practical improvement."
+        },
+        {
+          "title": "Strengthen implementation and monitoring",
+          "recommendation": "Agree on the required action, assign responsibility and monitor progress."
+        },
+        {
+          "title": "Staff / stakeholder follow-up",
+          "recommendation": "Discuss the finding with the relevant staff or stakeholders and record agreed actions."
+        }
+      ]
+    },
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "1.3",
+      "section_name": "Section 1.3",
+      "name": "1.3 SIAS (Screening, Identification, Assessment, and Support) and Learners at  risk.",
+      "statement": "1.3 SIAS (Screening, Identification, Assessment, and Support) and Learners at  risk.",
+      "sort_order": 3,
+      "source_improvement_options": [],
+      "suggestions": [
+        {
+          "title": "Review current practice for 1.3 SIAS (Screening, Identification, Assessment, and Support) and Learners at  risk.",
+          "recommendation": "Review the current approach to 1.3 sias (screening, identification, assessment, and support) and learners at  risk. and identify a practical improvement."
+        },
+        {
+          "title": "Strengthen implementation and monitoring",
+          "recommendation": "Agree on the required action, assign responsibility and monitor progress."
+        },
+        {
+          "title": "Staff / stakeholder follow-up",
+          "recommendation": "Discuss the finding with the relevant staff or stakeholders and record agreed actions."
+        }
+      ]
+    },
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "2.1",
+      "section_name": "Section 2",
+      "name": "2.1 Staff Attendance Registers",
+      "statement": "2.1 Staff Attendance Registers",
+      "sort_order": 4,
+      "source_improvement_options": [
+        "Attendance register",
+        "Weekly Attendance summaries",
+        "Monthly Attendance summaries"
+      ],
+      "suggestions": [
+        {
+          "title": "Attendance register",
+          "recommendation": "Review and strengthen attendance register in relation to this assessment item."
+        },
+        {
+          "title": "Weekly Attendance summaries",
+          "recommendation": "Review and strengthen weekly attendance summaries in relation to this assessment item."
+        },
+        {
+          "title": "Monthly Attendance summaries",
+          "recommendation": "Review and strengthen monthly attendance summaries in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "2.2",
+      "section_name": "Section 2.2",
+      "name": "2.2 Leave register (Staff)",
+      "statement": "2.2 Leave register (Staff)",
+      "sort_order": 5,
+      "source_improvement_options": [],
+      "suggestions": [
+        {
+          "title": "Review current practice for 2.2 Leave register (Staff)",
+          "recommendation": "Review the current approach to 2.2 leave register (staff) and identify a practical improvement."
+        },
+        {
+          "title": "Strengthen implementation and monitoring",
+          "recommendation": "Agree on the required action, assign responsibility and monitor progress."
+        },
+        {
+          "title": "Staff / stakeholder follow-up",
+          "recommendation": "Discuss the finding with the relevant staff or stakeholders and record agreed actions."
+        }
+      ]
+    },
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "2.3",
+      "section_name": "Section 2.3",
+      "name": "2.3 Staff Late-coming / Early departure / Truancy Records",
+      "statement": "2.3 Staff Late-coming / Early departure / Truancy Records",
+      "sort_order": 6,
+      "source_improvement_options": [],
+      "suggestions": [
+        {
+          "title": "Review current practice for 2.3 Staff Late-coming / Early departure / Truancy Records",
+          "recommendation": "Review the current approach to 2.3 staff late-coming / early departure / truancy records and identify a practical improvement."
+        },
+        {
+          "title": "Strengthen implementation and monitoring",
+          "recommendation": "Agree on the required action, assign responsibility and monitor progress."
+        },
+        {
+          "title": "Staff / stakeholder follow-up",
+          "recommendation": "Discuss the finding with the relevant staff or stakeholders and record agreed actions."
+        }
+      ]
+    },
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "2.4",
+      "section_name": "Section 2.4",
+      "name": "2.4 Analysis of attendance records. (Staff)",
+      "statement": "2.4 Analysis of attendance records. (Staff)",
+      "sort_order": 7,
+      "source_improvement_options": [],
+      "suggestions": [
+        {
+          "title": "Review current practice for 2.4 Analysis of attendance records. (Staff)",
+          "recommendation": "Review the current approach to 2.4 analysis of attendance records. (staff) and identify a practical improvement."
+        },
+        {
+          "title": "Strengthen implementation and monitoring",
+          "recommendation": "Agree on the required action, assign responsibility and monitor progress."
+        },
+        {
+          "title": "Staff / stakeholder follow-up",
+          "recommendation": "Discuss the finding with the relevant staff or stakeholders and record agreed actions."
+        }
+      ]
+    },
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "2.5",
+      "section_name": "Section 2.5",
+      "name": "2.5 Evidence of intervention implemented",
+      "statement": "2.5 Evidence of intervention implemented",
+      "sort_order": 8,
+      "source_improvement_options": [],
+      "suggestions": [
+        {
+          "title": "Review current practice for 2.5 Evidence of intervention implemented",
+          "recommendation": "Review the current approach to 2.5 evidence of intervention implemented and identify a practical improvement."
+        },
+        {
+          "title": "Strengthen implementation and monitoring",
+          "recommendation": "Agree on the required action, assign responsibility and monitor progress."
+        },
+        {
+          "title": "Staff / stakeholder follow-up",
+          "recommendation": "Discuss the finding with the relevant staff or stakeholders and record agreed actions."
+        }
+      ]
+    },
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "3.1",
+      "section_name": "Section 3",
+      "name": "3.1 Learners Attendance Registers:",
+      "statement": "3.1 Learners Attendance Registers:",
+      "sort_order": 9,
+      "source_improvement_options": [
+        "Attendance register",
+        "Weekly Attendance summaries",
+        "Monthly Attendance summaries"
+      ],
+      "suggestions": [
+        {
+          "title": "Attendance register",
+          "recommendation": "Review and strengthen attendance register in relation to this assessment item."
+        },
+        {
+          "title": "Weekly Attendance summaries",
+          "recommendation": "Review and strengthen weekly attendance summaries in relation to this assessment item."
+        },
+        {
+          "title": "Monthly Attendance summaries",
+          "recommendation": "Review and strengthen monthly attendance summaries in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "3.2",
+      "section_name": "Section 3.2",
+      "name": "3.2 Period Register",
+      "statement": "3.2 Period Register",
+      "sort_order": 10,
+      "source_improvement_options": [],
+      "suggestions": [
+        {
+          "title": "Review current practice for 3.2 Period Register",
+          "recommendation": "Review the current approach to 3.2 period register and identify a practical improvement."
+        },
+        {
+          "title": "Strengthen implementation and monitoring",
+          "recommendation": "Agree on the required action, assign responsibility and monitor progress."
+        },
+        {
+          "title": "Staff / stakeholder follow-up",
+          "recommendation": "Discuss the finding with the relevant staff or stakeholders and record agreed actions."
+        }
+      ]
+    },
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "3.3",
+      "section_name": "Section 3.3: Learners",
+      "name": "3.3 Late-coming / Early departure / Truancy Record",
+      "statement": "3.3 Late-coming / Early departure / Truancy Record",
+      "sort_order": 11,
+      "source_improvement_options": [],
+      "suggestions": [
+        {
+          "title": "Review current practice for 3.3 Late-coming / Early departure / Truancy Record",
+          "recommendation": "Review the current approach to 3.3 late-coming / early departure / truancy record and identify a practical improvement."
+        },
+        {
+          "title": "Strengthen implementation and monitoring",
+          "recommendation": "Agree on the required action, assign responsibility and monitor progress."
+        },
+        {
+          "title": "Staff / stakeholder follow-up",
+          "recommendation": "Discuss the finding with the relevant staff or stakeholders and record agreed actions."
+        }
+      ]
+    },
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "3.4",
+      "section_name": "Section 3.4: Learners",
+      "name": "3.4 Analysis of attendance records:",
+      "statement": "3.4 Analysis of attendance records:",
+      "sort_order": 12,
+      "source_improvement_options": [],
+      "suggestions": [
+        {
+          "title": "Review current practice for 3.4 Analysis of attendance records:",
+          "recommendation": "Review the current approach to 3.4 analysis of attendance records: and identify a practical improvement."
+        },
+        {
+          "title": "Strengthen implementation and monitoring",
+          "recommendation": "Agree on the required action, assign responsibility and monitor progress."
+        },
+        {
+          "title": "Staff / stakeholder follow-up",
+          "recommendation": "Discuss the finding with the relevant staff or stakeholders and record agreed actions."
+        }
+      ]
+    },
+    {
+      "area_slug": "basic-functionality-of-the-school",
+      "number": "3.5",
+      "section_name": "Section 3.5: Learners",
+      "name": "2.5 Evidence of intervention implemented:",
+      "statement": "2.5 Evidence of intervention implemented:",
+      "sort_order": 13,
+      "source_improvement_options": [],
+      "suggestions": [
+        {
+          "title": "Review current practice for 2.5 Evidence of intervention implemented:",
+          "recommendation": "Review the current approach to 2.5 evidence of intervention implemented: and identify a practical improvement."
+        },
+        {
+          "title": "Strengthen implementation and monitoring",
+          "recommendation": "Agree on the required action, assign responsibility and monitor progress."
+        },
+        {
+          "title": "Staff / stakeholder follow-up",
+          "recommendation": "Discuss the finding with the relevant staff or stakeholders and record agreed actions."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-safety-security-and-discipline",
+      "number": "1",
+      "section_name": "Section 1",
+      "name": "1",
+      "statement": "1",
+      "sort_order": 1,
+      "source_improvement_options": [
+        "A effective Health, Safety and Security (HSS) policy should be in place and implemented appropriately.",
+        "Procedures should be established to care for, support and protect learners in need.",
+        "The school should have sufficient, well-equipped and accessible First Aid Kits.",
+        "Evidence should be provided of established links with local healthcare centres."
+      ],
+      "suggestions": [
+        {
+          "title": "A effective Health, Safety and Security (HSS) policy should be in place and implemented appropriately.",
+          "recommendation": "Review and strengthen a effective health, safety and security (hss) policy should be in place and implemented appropriately. in relation to this assessment item."
+        },
+        {
+          "title": "Procedures should be established to care for, support and protect learners in need.",
+          "recommendation": "Review and strengthen procedures should be established to care for, support and protect learners in need. in relation to this assessment item."
+        },
+        {
+          "title": "The school should have sufficient, well-equipped and accessible First Aid Kits.",
+          "recommendation": "Review and strengthen the school should have sufficient, well-equipped and accessible first aid kits. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-safety-security-and-discipline",
+      "number": "2",
+      "section_name": "Section 2",
+      "name": "2. The school implements comprehensive safety measures to mitigate  potential hazards and address unsafe or unhealthy structures and conditions on the premises. These measures include the regular servicing of fire extinguishers, the development and implementation of emergency plans, and the prominent display of safety notices in classrooms and throughout the school premises.",
+      "statement": "2. The school implements comprehensive safety measures to mitigate  potential hazards and address unsafe or unhealthy structures and conditions on the premises. These measures include the regular servicing of fire extinguishers, the development and implementation of emergency plans, and the prominent display of safety notices in classrooms and throughout the school premises.",
+      "sort_order": 2,
+      "source_improvement_options": [
+        "Display an evacuation plan in every classroom and office.",
+        "Include evacuation drills in the school’s Year Plan.",
+        "Train staff on emergency, disaster, and evacuation procedures.",
+        "Train learners on emergency, disaster, and evacuation procedures.",
+        "Secure the school property with a fence or wall.",
+        "Ensure the school property is free from hazards.",
+        "Maintain clean and hygienic school premises.",
+        "Ensure classrooms and laboratories are safe and secure.",
+        "Provide serviced fire extinguishers or sand buckets at strategic points.",
+        "Display an updated list of emergency contact numbers.",
+        "Provide a safe workshop environment for technical subjects.",
+        "Maintain relationships with the police, traffic department, and fire brigade."
+      ],
+      "suggestions": [
+        {
+          "title": "Display an evacuation plan in every classroom and office.",
+          "recommendation": "Review and strengthen display an evacuation plan in every classroom and office. in relation to this assessment item."
+        },
+        {
+          "title": "Include evacuation drills in the school’s Year Plan.",
+          "recommendation": "Review and strengthen include evacuation drills in the school’s year plan. in relation to this assessment item."
+        },
+        {
+          "title": "Train staff on emergency, disaster, and evacuation procedures.",
+          "recommendation": "Review and strengthen train staff on emergency, disaster, and evacuation procedures. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-safety-security-and-discipline",
+      "number": "3",
+      "section_name": "Section 3",
+      "name": "3. The school implements effective security measures to ensure the safety of  learners, staff, and visitors on the premises through access control, adequate supervision, and systems for recording and monitoring early departures.",
+      "statement": "3. The school implements effective security measures to ensure the safety of  learners, staff, and visitors on the premises through access control, adequate supervision, and systems for recording and monitoring early departures.",
+      "sort_order": 3,
+      "source_improvement_options": [
+        "Implement and maintain effective access control systems.",
+        "Include access control measures in the school’s Safety Policy.",
+        "Establish procedures to regulate and record the early release of learners."
+      ],
+      "suggestions": [
+        {
+          "title": "Implement and maintain effective access control systems.",
+          "recommendation": "Review and strengthen implement and maintain effective access control systems. in relation to this assessment item."
+        },
+        {
+          "title": "Include access control measures in the school’s Safety Policy.",
+          "recommendation": "Review and strengthen include access control measures in the school’s safety policy. in relation to this assessment item."
+        },
+        {
+          "title": "Establish procedures to regulate and record the early release of learners.",
+          "recommendation": "Review and strengthen establish procedures to regulate and record the early release of learners. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-safety-security-and-discipline",
+      "number": "4",
+      "section_name": "Section 4",
+      "name": "4. The school implements and enforces regulations in compliance with  applicable legislation to maintain a safe, violence- and drug-free environment. Regular search and confiscation operations are conducted in collaboration with the South African Police Service (SAPS).",
+      "statement": "4. The school implements and enforces regulations in compliance with  applicable legislation to maintain a safe, violence- and drug-free environment. Regular search and confiscation operations are conducted in collaboration with the South African Police Service (SAPS).",
+      "sort_order": 4,
+      "source_improvement_options": [
+        "Strong working links should be established and maintained with the local SAPS.",
+        "Regular checks for weapons and drugs should be conducted in accordance with the school’s Safety Policy.",
+        "Planned safety checks should be incorporated into the school’s Year Plan.",
+        "The school’s Safety Policy should be communicated, discussed, and agreed upon with parents and relevant stakeholders."
+      ],
+      "suggestions": [
+        {
+          "title": "Strong working links should be established and maintained with the local SAPS.",
+          "recommendation": "Review and strengthen strong working links should be established and maintained with the local saps. in relation to this assessment item."
+        },
+        {
+          "title": "Regular checks for weapons and drugs should be conducted in accordance with the school’s Safety Policy.",
+          "recommendation": "Review and strengthen regular checks for weapons and drugs should be conducted in accordance with the school’s safety policy. in relation to this assessment item."
+        },
+        {
+          "title": "Planned safety checks should be incorporated into the school’s Year Plan.",
+          "recommendation": "Review and strengthen planned safety checks should be incorporated into the school’s year plan. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-safety-security-and-discipline",
+      "number": "5",
+      "section_name": "Section 5: Learner Discipline Policy and Procedures",
+      "name": "5. Learner Discipline Policy and Procedures",
+      "statement": "5. Learner Discipline Policy and Procedures",
+      "sort_order": 5,
+      "source_improvement_options": [
+        "The school should have a positive discipline system.",
+        "The discipline system should be implemented at class level.",
+        "All educators should support the discipline system.",
+        "All learners should support the discipline system.",
+        "Updated discipline records for learners should be maintained.",
+        "Minutes of all disciplinary cases should be recorded and maintained.",
+        "Intervention programmes should be provided for learners with ongoing difficult behaviour.",
+        "Procedures should be in place to address bullying and abuse effectively.",
+        "Clear and consistent communication with parents/guardians should be maintained to support discipline efforts."
+      ],
+      "suggestions": [
+        {
+          "title": "The school should have a positive discipline system.",
+          "recommendation": "Review and strengthen the school should have a positive discipline system. in relation to this assessment item."
+        },
+        {
+          "title": "The discipline system should be implemented at class level.",
+          "recommendation": "Review and strengthen the discipline system should be implemented at class level. in relation to this assessment item."
+        },
+        {
+          "title": "All educators should support the discipline system.",
+          "recommendation": "Review and strengthen all educators should support the discipline system. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-safety-security-and-discipline",
+      "number": "6",
+      "section_name": "Section 6: Welfare learners.",
+      "name": "6",
+      "statement": "6",
+      "sort_order": 6,
+      "source_improvement_options": [
+        "The school should maintain a record of all learners who are orphans and/or staying with guardians.",
+        "A feeding scheme should be provided for learners who require support.",
+        "Links should be established with the Social Welfare Department, NGOs and other relevant organisations in the area.",
+        "Appropriate structures, processes and procedures should be in place for counselling and/or referral of learners.",
+        "Appropriate structures and programmes should be in place to identify, mentor and support learners at risk.",
+        "Records of learners who have been counselled and/or referred should be maintained and regularly updated."
+      ],
+      "suggestions": [
+        {
+          "title": "The school should maintain a record of all learners who are orphans and/or staying with guardians.",
+          "recommendation": "Review and strengthen the school should maintain a record of all learners who are orphans and/or staying with guardians. in relation to this assessment item."
+        },
+        {
+          "title": "A feeding scheme should be provided for learners who require support.",
+          "recommendation": "Review and strengthen a feeding scheme should be provided for learners who require support. in relation to this assessment item."
+        },
+        {
+          "title": "Links should be established with the Social Welfare Department, NGOs and other relevant organisations in the area.",
+          "recommendation": "Review and strengthen links should be established with the social welfare department, ngos and other relevant organisations in the area. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-safety-security-and-discipline",
+      "number": "7",
+      "section_name": "Section 7: Nutrition program.",
+      "name": "7. Nutrition program",
+      "statement": "7. Nutrition program",
+      "sort_order": 7,
+      "source_improvement_options": [
+        "The school should participate in the National School Nutrition Programme.",
+        "The school should have a gas cylinder.",
+        "A fire extinguisher should be available.",
+        "Cooking pots should be available.",
+        "Serving utensils should be available.",
+        "Eating utensils, including plates, spoons and cups, should be available.",
+        "Adequate provision should be made for perishable and non-perishable groceries.",
+        "An appropriate storage facility should be available."
+      ],
+      "suggestions": [
+        {
+          "title": "The school should participate in the National School Nutrition Programme.",
+          "recommendation": "Review and strengthen the school should participate in the national school nutrition programme. in relation to this assessment item."
+        },
+        {
+          "title": "The school should have a gas cylinder.",
+          "recommendation": "Review and strengthen the school should have a gas cylinder. in relation to this assessment item."
+        },
+        {
+          "title": "A fire extinguisher should be available.",
+          "recommendation": "Review and strengthen a fire extinguisher should be available. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-safety-security-and-discipline",
+      "number": "8",
+      "section_name": "Section 8: Scholar transport.",
+      "name": "8. Scholar Transport",
+      "statement": "8. Scholar Transport",
+      "sort_order": 8,
+      "source_improvement_options": [
+        "The school should participate in the GDE Scholar Transport Programme.",
+        "Learners should arrive at school on time."
+      ],
+      "suggestions": [
+        {
+          "title": "The school should participate in the GDE Scholar Transport Programme.",
+          "recommendation": "Review and strengthen the school should participate in the gde scholar transport programme. in relation to this assessment item."
+        },
+        {
+          "title": "Learners should arrive at school on time.",
+          "recommendation": "Review and strengthen learners should arrive at school on time. in relation to this assessment item."
+        },
+        {
+          "title": "Staff / stakeholder follow-up",
+          "recommendation": "Discuss the finding with the relevant staff or stakeholders and record agreed actions."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-infrastructure",
+      "number": "1",
+      "section_name": "Section 1: Functional services.",
+      "name": "1. The school has reliable and sufficient functional services",
+      "statement": "1. The school has reliable and sufficient functional services",
+      "sort_order": 1,
+      "source_improvement_options": [
+        "Evidence of reports on the state of the school’s infrastructure and facilities should be available and regularly updated.",
+        "Electricity at the school should be reliable and sufficient.",
+        "The school should have a functional and clean water supply"
+      ],
+      "suggestions": [
+        {
+          "title": "Evidence of reports on the state of the school’s infrastructure and facilities should be available and regularly updated.",
+          "recommendation": "Review and strengthen evidence of reports on the state of the school’s infrastructure and facilities should be available and regularly updated. in relation to this assessment item."
+        },
+        {
+          "title": "Electricity at the school should be reliable and sufficient.",
+          "recommendation": "Review and strengthen electricity at the school should be reliable and sufficient. in relation to this assessment item."
+        },
+        {
+          "title": "The school should have a functional and clean water supply",
+          "recommendation": "Review and strengthen the school should have a functional and clean water supply in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-infrastructure",
+      "number": "2",
+      "section_name": "Section 2:Ablution facilities.",
+      "name": "2. The school’s ablution facilities are adequate, sufficient, and fully functional.",
+      "statement": "2. The school’s ablution facilities are adequate, sufficient, and fully functional.",
+      "sort_order": 2,
+      "source_improvement_options": [
+        "The learner ablution facilities should be sufficient for the school’s enrolment.",
+        "The school should have at least one ablution facility for learners with physical disabilities.",
+        "The learner ablution facilities should be in good working order.",
+        "The learner ablution facilities should be clean and hygienic.",
+        "Sufficient hand-washing facilities should be available for learners.",
+        "The educator ablution facilities should be sufficient for the school’s staff.",
+        "The school should have at least one ablution facility for staff with physical disabilities.",
+        "The educator ablution facilities should be in good working order.",
+        "The educator ablution facilities should be clean and hygienic.",
+        "Sufficient hand-washing facilities should be available for educators.",
+        "Reports on the condition of the school’s ablution facilities should be maintained and regularly updated."
+      ],
+      "suggestions": [
+        {
+          "title": "The learner ablution facilities should be sufficient for the school’s enrolment.",
+          "recommendation": "Review and strengthen the learner ablution facilities should be sufficient for the school’s enrolment. in relation to this assessment item."
+        },
+        {
+          "title": "The school should have at least one ablution facility for learners with physical disabilities.",
+          "recommendation": "Review and strengthen the school should have at least one ablution facility for learners with physical disabilities. in relation to this assessment item."
+        },
+        {
+          "title": "The learner ablution facilities should be in good working order.",
+          "recommendation": "Review and strengthen the learner ablution facilities should be in good working order. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-infrastructure",
+      "number": "3",
+      "section_name": "Section 3: Classrooms.",
+      "name": "3. Classrooms are sufficient, appropriately furnished, well-maintained, and  used for their intended purposes.",
+      "statement": "3. Classrooms are sufficient, appropriately furnished, well-maintained, and  used for their intended purposes.",
+      "sort_order": 3,
+      "source_improvement_options": [
+        "The school should have sufficient ordinary classrooms.",
+        "The school should have appropriately equipped and adequately resourced workshops for the offering of technical subjects.",
+        "The school should have sufficient specialist rooms.",
+        "The classrooms should be well maintained.",
+        "The school should have classrooms that are accessible to learners and teachers with physical disabilities.",
+        "The classrooms should have sufficient furniture based on enrolment per classroom.",
+        "The classrooms should be neat and well maintained.",
+        "Reports on the maintenance and condition of classrooms should be available and regularly updated.",
+        "The FET Technology workshops should have sufficient machines and tools."
+      ],
+      "suggestions": [
+        {
+          "title": "The school should have sufficient ordinary classrooms.",
+          "recommendation": "Review and strengthen the school should have sufficient ordinary classrooms. in relation to this assessment item."
+        },
+        {
+          "title": "The school should have appropriately equipped and adequately resourced workshops for the offering of technical subjects.",
+          "recommendation": "Review and strengthen the school should have appropriately equipped and adequately resourced workshops for the offering of technical subjects. in relation to this assessment item."
+        },
+        {
+          "title": "The school should have sufficient specialist rooms.",
+          "recommendation": "Review and strengthen the school should have sufficient specialist rooms. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-infrastructure",
+      "number": "4",
+      "section_name": "Section 4: Teaching and learning environment.",
+      "name": "4. The school has adequate non-educational rooms that support a positive  teaching and learning environment.",
+      "statement": "4. The school has adequate non-educational rooms that support a positive  teaching and learning environment.",
+      "sort_order": 4,
+      "source_improvement_options": [
+        "The school should have an administrative block with adequate office space.",
+        "The school should have a staff room.",
+        "The offices should have sufficient furniture based on the intended use of each room or facility.",
+        "The maintenance and care of furniture should be included in the school’s Asset Policy."
+      ],
+      "suggestions": [
+        {
+          "title": "The school should have an administrative block with adequate office space.",
+          "recommendation": "Review and strengthen the school should have an administrative block with adequate office space. in relation to this assessment item."
+        },
+        {
+          "title": "The school should have a staff room.",
+          "recommendation": "Review and strengthen the school should have a staff room. in relation to this assessment item."
+        },
+        {
+          "title": "The offices should have sufficient furniture based on the intended use of each room or facility.",
+          "recommendation": "Review and strengthen the offices should have sufficient furniture based on the intended use of each room or facility. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "school-infrastructure",
+      "number": "5",
+      "section_name": "Section 5: School grounds.",
+      "name": "5. The school has appropriate school grounds, play areas and sport  facilities",
+      "statement": "5. The school has appropriate school grounds, play areas and sport  facilities",
+      "sort_order": 5,
+      "source_improvement_options": [
+        "The school should have a Maintenance Policy that is effectively implemented.",
+        "The school grounds should be fenced, accessible, and well maintained.",
+        "The school should have access to adequate sporting facilities.",
+        "The school should have sufficient sporting equipment.",
+        "The school should have sufficient facilities to support cultural activities.",
+        "The school should have the required equipment to support cultural activities"
+      ],
+      "suggestions": [
+        {
+          "title": "The school should have a Maintenance Policy that is effectively implemented.",
+          "recommendation": "Review and strengthen the school should have a maintenance policy that is effectively implemented. in relation to this assessment item."
+        },
+        {
+          "title": "The school grounds should be fenced, accessible, and well maintained.",
+          "recommendation": "Review and strengthen the school grounds should be fenced, accessible, and well maintained. in relation to this assessment item."
+        },
+        {
+          "title": "The school should have access to adequate sporting facilities.",
+          "recommendation": "Review and strengthen the school should have access to adequate sporting facilities. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "quality-teaching-learning-and-educator-development",
+      "number": "1",
+      "section_name": "Section 1: Time management.",
+      "name": "1. Effective time-management of teaching and learning",
+      "statement": "1. Effective time-management of teaching and learning",
+      "sort_order": 1,
+      "source_improvement_options": [
+        "Lessons finish on time",
+        "Lessons progress uninterrupted",
+        "Lessons follow the Lesson Plan",
+        "Educators remain in class for the entire lesson",
+        "Learner movement in and out of class is well controlled and managed"
+      ],
+      "suggestions": [
+        {
+          "title": "Lessons finish on time",
+          "recommendation": "Review and strengthen lessons finish on time in relation to this assessment item."
+        },
+        {
+          "title": "Lessons progress uninterrupted",
+          "recommendation": "Review and strengthen lessons progress uninterrupted in relation to this assessment item."
+        },
+        {
+          "title": "Lessons follow the Lesson Plan",
+          "recommendation": "Review and strengthen lessons follow the lesson plan in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "quality-teaching-learning-and-educator-development",
+      "number": "2",
+      "section_name": "Section 2: Positive learning environment.",
+      "name": "2. Creating a Positive Learning Environment by Managing Learner Discipline  and Classroom Diversity Effectively.",
+      "statement": "2. Creating a Positive Learning Environment by Managing Learner Discipline  and Classroom Diversity Effectively.",
+      "sort_order": 2,
+      "source_improvement_options": [
+        "Learning spaces are clean, stimulating, age-appropriate and suitable for the subject",
+        "FET technical workshops and storerooms are professionally managed",
+        "Learners are actively engaged in the learning process",
+        "Educators effectively organise and manage classrooms to promote positive learner discipline",
+        "Educators consistently enforce appropriate discipline measures to maintain a positive teaching and learning environment",
+        "Diversity is acknowledged and appropriately catered for in the classroom",
+        "Each class and technical workshop has a Classroom Code of Conduct",
+        "Relevant charts, posters, maps, pictures and 3-D models support teaching and learning",
+        "Smartboards are available in each classroom",
+        "Laptops are available for each educator",
+        "Tablets are available for learners",
+        "An updated inventory list of all classroom assets is maintained for each classroom",
+        "An updated asset register and inventory list is maintained for each technical workshop specialisation",
+        "Each classroom has a resource centre with learning materials and assistive devices that cater for different cognitive levels and align with the Inclusion Policy",
+        "Learners have access to departmental question banks"
+      ],
+      "suggestions": [
+        {
+          "title": "Learning spaces are clean, stimulating, age-appropriate and suitable for the subject",
+          "recommendation": "Review and strengthen learning spaces are clean, stimulating, age-appropriate and suitable for the subject in relation to this assessment item."
+        },
+        {
+          "title": "FET technical workshops and storerooms are professionally managed",
+          "recommendation": "Review and strengthen fet technical workshops and storerooms are professionally managed in relation to this assessment item."
+        },
+        {
+          "title": "Learners are actively engaged in the learning process",
+          "recommendation": "Review and strengthen learners are actively engaged in the learning process in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "quality-teaching-learning-and-educator-development",
+      "number": "3",
+      "section_name": "Section 3: Curriculum knowledge.",
+      "name": "3. Demonstrating comprehensive knowledge and understanding of the curriculum, applying it effectively, and setting clear goals to support the achievement of desired learning outcomes.",
+      "statement": "3. Demonstrating comprehensive knowledge and understanding of the curriculum, applying it effectively, and setting clear goals to support the achievement of desired learning outcomes.",
+      "sort_order": 3,
+      "source_improvement_options": [
+        "Evidence of goal and target setting per subject and grade aligned with Provincial targets",
+        "Evidence of result analysis per subject and grade",
+        "Evidence of intervention plans based on results analysis",
+        "Educators demonstrate a sound understanding of subject content and CAPS requirements",
+        "Educators apply appropriate skills and methodologies to teach their subjects effectively",
+        "Classroom resources reflect a variety of teaching approaches to address different cognitive levels",
+        "Educators participate in subject-related professional development activities"
+      ],
+      "suggestions": [
+        {
+          "title": "Evidence of goal and target setting per subject and grade aligned with Provincial targets",
+          "recommendation": "Review and strengthen evidence of goal and target setting per subject and grade aligned with provincial targets in relation to this assessment item."
+        },
+        {
+          "title": "Evidence of result analysis per subject and grade",
+          "recommendation": "Review and strengthen evidence of result analysis per subject and grade in relation to this assessment item."
+        },
+        {
+          "title": "Evidence of intervention plans based on results analysis",
+          "recommendation": "Review and strengthen evidence of intervention plans based on results analysis in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "quality-teaching-learning-and-educator-development",
+      "number": "4",
+      "section_name": "Section 4: Lessons.",
+      "name": "4. Lesson planning, preparation, and presentation.",
+      "statement": "4. Lesson planning, preparation, and presentation.",
+      "sort_order": 4,
+      "source_improvement_options": [
+        "Review lesson plans per subject and grade",
+        "Review alignment of lesson plans with Annual Teaching Plans",
+        "Review the extent to which lessons are engaging and interactive",
+        "Review educators’ records of planning and curriculum coverage",
+        "Review educators’ management and pacing of the Annual Teaching Plan",
+        "Review how educators assess the strengths and weaknesses of their lessons",
+        "Review compliance with the management plans for PATs and Simulations"
+      ],
+      "suggestions": [
+        {
+          "title": "Review lesson plans per subject and grade",
+          "recommendation": "Review and strengthen review lesson plans per subject and grade in relation to this assessment item."
+        },
+        {
+          "title": "Review alignment of lesson plans with Annual Teaching Plans",
+          "recommendation": "Review and strengthen review alignment of lesson plans with annual teaching plans in relation to this assessment item."
+        },
+        {
+          "title": "Review the extent to which lessons are engaging and interactive",
+          "recommendation": "Review and strengthen review the extent to which lessons are engaging and interactive in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "quality-teaching-learning-and-educator-development",
+      "number": "5",
+      "section_name": "Section 5: Assessment and achievement.",
+      "name": "5. Learner Assessment and Achievement",
+      "statement": "5. Learner Assessment and Achievement",
+      "sort_order": 5,
+      "source_improvement_options": [
+        "Review the provision of regular and insightful feedback to all learners on their progress",
+        "Review educators’ understanding of assessment techniques relevant to the subject and learners’ abilities",
+        "Review educators’ application of relevant assessment techniques to ensure validity, consistency and transparency",
+        "Review the accuracy and completeness of records of assessments, learner progress and learner achievement"
+      ],
+      "suggestions": [
+        {
+          "title": "Review the provision of regular and insightful feedback to all learners on their progress",
+          "recommendation": "Review and strengthen review the provision of regular and insightful feedback to all learners on their progress in relation to this assessment item."
+        },
+        {
+          "title": "Review educators’ understanding of assessment techniques relevant to the subject and learners’ abilities",
+          "recommendation": "Review and strengthen review educators’ understanding of assessment techniques relevant to the subject and learners’ abilities in relation to this assessment item."
+        },
+        {
+          "title": "Review educators’ application of relevant assessment techniques to ensure validity, consistency and transparency",
+          "recommendation": "Review and strengthen review educators’ application of relevant assessment techniques to ensure validity, consistency and transparency in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "quality-teaching-learning-and-educator-development",
+      "number": "6",
+      "section_name": "Section 6: Assessment.",
+      "name": "6. The school conducts appropriate and effective assessments of learner  competencies.",
+      "statement": "6. The school conducts appropriate and effective assessments of learner  competencies.",
+      "sort_order": 6,
+      "source_improvement_options": [
+        "Review the number of assessments conducted per term against the required number",
+        "Review that the Programme of Assessment is filed in each teacher’s file",
+        "Review that the Programme of Assessment is included in the Annual Assessment Plan",
+        "Review that assessment is incorporated into all lesson plans",
+        "Review that all assessments are dated and signed off"
+      ],
+      "suggestions": [
+        {
+          "title": "Review the number of assessments conducted per term against the required number",
+          "recommendation": "Review and strengthen review the number of assessments conducted per term against the required number in relation to this assessment item."
+        },
+        {
+          "title": "Review that the Programme of Assessment is filed in each teacher’s file",
+          "recommendation": "Review and strengthen review that the programme of assessment is filed in each teacher’s file in relation to this assessment item."
+        },
+        {
+          "title": "Review that the Programme of Assessment is included in the Annual Assessment Plan",
+          "recommendation": "Review and strengthen review that the programme of assessment is included in the annual assessment plan in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "quality-teaching-learning-and-educator-development",
+      "number": "7",
+      "section_name": "Section 7: Assessment standard.",
+      "name": "7. Assessments are of a high standard and are accurately recorded and  maintained.",
+      "statement": "7. Assessments are of a high standard and are accurately recorded and  maintained.",
+      "sort_order": 7,
+      "source_improvement_options": [
+        "Review the regular recording of assessment results using systems such as SA- SAMS",
+        "Review that assessments are recorded on the correct mark sheets",
+        "Review that assessments are analysed after each task to inform appropriate and timely remedial work",
+        "Review assessment of FET Technical specialisations, PATs and Simulations",
+        "Review that subject results are analysed twice per quarter",
+        "Review that analysis informs remedial instruction",
+        "Review that remedial work results in learner corrections",
+        "Review that assessment covers all planned work for each quarter",
+        "Review that assessment covers core content for each grade",
+        "Review that a variety of assessment techniques are used",
+        "Review that assessments are moderated by the DH, senior teacher or appropriate level of authority",
+        "Review that written moderation reports are compiled for all formal assessment tasks",
+        "Review that assessments cover all levels of Bloom’s Taxonomy or other relevant taxonomies",
+        "Review that educators use sufficient and varied informal assessment as required by CAPS",
+        "Review evidence that informal assessments inform and lead to formal assessments"
+      ],
+      "suggestions": [
+        {
+          "title": "Review the regular recording of assessment results using systems such as SA- SAMS",
+          "recommendation": "Review and strengthen review the regular recording of assessment results using systems such as sa- sams in relation to this assessment item."
+        },
+        {
+          "title": "Review that assessments are recorded on the correct mark sheets",
+          "recommendation": "Review and strengthen review that assessments are recorded on the correct mark sheets in relation to this assessment item."
+        },
+        {
+          "title": "Review that assessments are analysed after each task to inform appropriate and timely remedial work",
+          "recommendation": "Review and strengthen review that assessments are analysed after each task to inform appropriate and timely remedial work in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "quality-teaching-learning-and-educator-development",
+      "number": "8",
+      "section_name": "Section 8: Informal assessment.",
+      "name": "8. Informal assessments are recorded and analyzed to identify areas requiring  attention and to inform educators in preparation for formal assessments.",
+      "statement": "8. Informal assessments are recorded and analyzed to identify areas requiring  attention and to inform educators in preparation for formal assessments.",
+      "sort_order": 8,
+      "source_improvement_options": [
+        "Review written classwork for quality and quantity",
+        "Review written homework for quality and quantity",
+        "Review FET Technical PATs and Simulations",
+        "Review assignments for quality and quantity",
+        "Review projects for quality and quantity",
+        "Review oral assessments for quality and quantity",
+        "Review reading for understanding and fluency",
+        "Review practicals, demonstrations and other forms of assessment for quality and quantity"
+      ],
+      "suggestions": [
+        {
+          "title": "Review written classwork for quality and quantity",
+          "recommendation": "Review and strengthen review written classwork for quality and quantity in relation to this assessment item."
+        },
+        {
+          "title": "Review written homework for quality and quantity",
+          "recommendation": "Review and strengthen review written homework for quality and quantity in relation to this assessment item."
+        },
+        {
+          "title": "Review FET Technical PATs and Simulations",
+          "recommendation": "Review and strengthen review fet technical pats and simulations in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "quality-teaching-learning-and-educator-development",
+      "number": "9",
+      "section_name": "Section 9: Educator development.",
+      "name": "9. The school supports and encourages educator development through  effective implementation of IQMS processes.",
+      "statement": "9. The school supports and encourages educator development through  effective implementation of IQMS processes.",
+      "sort_order": 9,
+      "source_improvement_options": [
+        "Review the establishment of a Staff Development Team (SDT)",
+        "Review that a Development Support Group (DSG) is in place for each educator",
+        "Review the availability of a management plan for implementing the educator appraisal system",
+        "Review that a Personal Growth Plan (PGP) is in place for each educator from the previous cycle",
+        "Review that the School Improvement Plan is linked to educators’ professional needs identified in their PGPs",
+        "Review that the School Plan includes the professional and developmental needs of all staff members",
+        "Review evidence of the implementation of activities outlined in the School Plan"
+      ],
+      "suggestions": [
+        {
+          "title": "Review the establishment of a Staff Development Team (SDT)",
+          "recommendation": "Review and strengthen review the establishment of a staff development team (sdt) in relation to this assessment item."
+        },
+        {
+          "title": "Review that a Development Support Group (DSG) is in place for each educator",
+          "recommendation": "Review and strengthen review that a development support group (dsg) is in place for each educator in relation to this assessment item."
+        },
+        {
+          "title": "Review the availability of a management plan for implementing the educator appraisal system",
+          "recommendation": "Review and strengthen review the availability of a management plan for implementing the educator appraisal system in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "quality-teaching-learning-and-educator-development",
+      "number": "10",
+      "section_name": "Section 10: Professional development.",
+      "name": "10. Staff participation in Professional Development",
+      "statement": "10. Staff participation in Professional Development",
+      "sort_order": 10,
+      "source_improvement_options": [
+        "Review educator participation in phase, inter-phase, cluster and other planning and professional development meetings",
+        "Review attendance of subject teachers and SMT members at subject roadshows",
+        "Review educator participation in development opportunities linked to their PGPs",
+        "Review the provision of adequate monitoring, guidance and support by the SMT",
+        "Review educator participation in professional groups beyond the school and district",
+        "Review that the School Policy promotes educator autonomy and professional development",
+        "Review that teachers and SMT members maintain Professional Development Portfolios (PDPs) with all professional development activities captured and loaded onto the SACE CPTD System"
+      ],
+      "suggestions": [
+        {
+          "title": "Review educator participation in phase, inter-phase, cluster and other planning and professional development meetings",
+          "recommendation": "Review and strengthen review educator participation in phase, inter-phase, cluster and other planning and professional development meetings in relation to this assessment item."
+        },
+        {
+          "title": "Review attendance of subject teachers and SMT members at subject roadshows",
+          "recommendation": "Review and strengthen review attendance of subject teachers and smt members at subject roadshows in relation to this assessment item."
+        },
+        {
+          "title": "Review educator participation in development opportunities linked to their PGPs",
+          "recommendation": "Review and strengthen review educator participation in development opportunities linked to their pgps in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "parents-and-community",
+      "number": "1",
+      "section_name": "Section 1: Parental communication.",
+      "name": "1. The school communicates regularly and effectively with parents and  conducts meetings to address learners’ academic progress, development, and other relevant matters.",
+      "statement": "1. The school communicates regularly and effectively with parents and  conducts meetings to address learners’ academic progress, development, and other relevant matters.",
+      "sort_order": 1,
+      "source_improvement_options": [
+        "Communication strategies for keeping parents informed about school activities require revision to ensure that they are effective and consistently implemented.",
+        "The school’s approach to communicating with and advising parents on curriculum matters and their children’s academic progress requires strengthening.",
+        "Parent attendance at meetings convened by the school requires improvement to encourage greater participation and engagement.",
+        "Parental involvement in learners’ schooling, including checking and signing learners’ work and diaries, requires strengthening.",
+        "The processes for informing and counselling parents regarding behavioural concerns involving their children require revision to ensure timely and appropriate support."
+      ],
+      "suggestions": [
+        {
+          "title": "Communication strategies for keeping parents informed about school activities require revision to ensure that they are effective and consistently implemented.",
+          "recommendation": "Review and strengthen communication strategies for keeping parents informed about school activities require revision to ensure that they are effective and consistently implemented. in relation to this assessment item."
+        },
+        {
+          "title": "The school’s approach to communicating with and advising parents on curriculum matters and their children’s academic progress requires strengthening.",
+          "recommendation": "Review and strengthen the school’s approach to communicating with and advising parents on curriculum matters and their children’s academic progress requires strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Parent attendance at meetings convened by the school requires improvement to encourage greater participation and engagement.",
+          "recommendation": "Review and strengthen parent attendance at meetings convened by the school requires improvement to encourage greater participation and engagement. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "parents-and-community",
+      "number": "2",
+      "section_name": "Section 2: Community.",
+      "name": "2. The school engages regularly and effectively with the community to promote  positive relationships and support the school’s educational objectives.",
+      "statement": "2. The school engages regularly and effectively with the community to promote  positive relationships and support the school’s educational objectives.",
+      "sort_order": 2,
+      "source_improvement_options": [
+        "Parents’ meetings are included in the school’s Year Plan but require regular review.",
+        "Communication methods for notifying parents of meetings require strengthening.",
+        "The school’s partnerships with the private sector require strengthening."
+      ],
+      "suggestions": [
+        {
+          "title": "Parents’ meetings are included in the school’s Year Plan but require regular review.",
+          "recommendation": "Review and strengthen parents’ meetings are included in the school’s year plan but require regular review. in relation to this assessment item."
+        },
+        {
+          "title": "Communication methods for notifying parents of meetings require strengthening.",
+          "recommendation": "Review and strengthen communication methods for notifying parents of meetings require strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "The school’s partnerships with the private sector require strengthening.",
+          "recommendation": "Review and strengthen the school’s partnerships with the private sector require strengthening. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "parents-and-community",
+      "number": "3",
+      "section_name": "Section 3: Local environment.",
+      "name": "3. The school encourages learners to respect, protect, and take responsibility  for the local and global environment.",
+      "statement": "3. The school encourages learners to respect, protect, and take responsibility  for the local and global environment.",
+      "sort_order": 3,
+      "source_improvement_options": [
+        "Evidence of programmes that promote respect and care for the environment requires strengthening.",
+        "Measures to promote environmental awareness, including sufficient bins on the school grounds, require review.",
+        "Classrooms have sufficient bins.",
+        "Recycling programmes require strengthening.",
+        "The school encourages the planting of vegetation and maintains vegetable gardens.",
+        "The school supports community environmental programmes.",
+        "The school receives community support for environmental programmes"
+      ],
+      "suggestions": [
+        {
+          "title": "Evidence of programmes that promote respect and care for the environment requires strengthening.",
+          "recommendation": "Review and strengthen evidence of programmes that promote respect and care for the environment requires strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Measures to promote environmental awareness, including sufficient bins on the school grounds, require review.",
+          "recommendation": "Review and strengthen measures to promote environmental awareness, including sufficient bins on the school grounds, require review. in relation to this assessment item."
+        },
+        {
+          "title": "Classrooms have sufficient bins.",
+          "recommendation": "Review and strengthen classrooms have sufficient bins. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "parents-and-community",
+      "number": "4",
+      "section_name": "Section 4: School relationships.",
+      "name": "4. The school has established and maintains positive and effective links with  other schools.",
+      "statement": "4. The school has established and maintains positive and effective links with  other schools.",
+      "sort_order": 4,
+      "source_improvement_options": [
+        "Interschool academic, sports and cultural activities are organised but require further strengthening.",
+        "Participation in interschool academic, sports and cultural activities requires improvement"
+      ],
+      "suggestions": [
+        {
+          "title": "Interschool academic, sports and cultural activities are organised but require further strengthening.",
+          "recommendation": "Review and strengthen interschool academic, sports and cultural activities are organised but require further strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Participation in interschool academic, sports and cultural activities requires improvement",
+          "recommendation": "Review and strengthen participation in interschool academic, sports and cultural activities requires improvement in relation to this assessment item."
+        },
+        {
+          "title": "Staff / stakeholder follow-up",
+          "recommendation": "Discuss the finding with the relevant staff or stakeholders and record agreed actions."
+        }
+      ]
+    },
+    {
+      "area_slug": "parents-and-community",
+      "number": "5",
+      "section_name": "Section 5: Parental involvement.",
+      "name": "5. The school promotes and encourages active parental involvement in school  activities and learners’ education.",
+      "statement": "5. The school promotes and encourages active parental involvement in school  activities and learners’ education.",
+      "sort_order": 5,
+      "source_improvement_options": [
+        "A sufficient number of parents participate in school activities.",
+        "Parents offer their skills to support the school.",
+        "Parents’ suggestions and concerns are taken seriously.",
+        "The school community plays a valuable role in supporting school activities.",
+        "Parents who do not contribute school fees support the school in other ways.",
+        "Parents participate in fundraising activities."
+      ],
+      "suggestions": [
+        {
+          "title": "A sufficient number of parents participate in school activities.",
+          "recommendation": "Review and strengthen a sufficient number of parents participate in school activities. in relation to this assessment item."
+        },
+        {
+          "title": "Parents offer their skills to support the school.",
+          "recommendation": "Review and strengthen parents offer their skills to support the school. in relation to this assessment item."
+        },
+        {
+          "title": "Parents’ suggestions and concerns are taken seriously.",
+          "recommendation": "Review and strengthen parents’ suggestions and concerns are taken seriously. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "learner-achievements",
+      "number": "1",
+      "section_name": "Section 1: Learner achievement.",
+      "name": "1. Learner achievement is monitored and supported to promote continuous academic progress and improved learning outcomes.",
+      "statement": "1. Learner achievement is monitored and supported to promote continuous academic progress and improved learning outcomes.",
+      "sort_order": 1,
+      "source_improvement_options": [
+        "Evidence of internal assessments requires strengthening.",
+        "Evidence of participation in National/Provincial common assessments for Literacy (Languages) requires review.",
+        "Evidence of participation in National/Provincial common assessments for Mathematics requires review.",
+        "The school SMT’s communication and mediation of subject targets to teachers and parents require strengthening.",
+        "Grade 12 results for all subjects require regular review and analysis.",
+        "The analysis of results from formal and informal assessments requires strengthening.",
+        "Subject improvement plans based on learner results require further development.",
+        "Feedback and support provided to subject teachers to improve learner performance require strengthening."
+      ],
+      "suggestions": [
+        {
+          "title": "Evidence of internal assessments requires strengthening.",
+          "recommendation": "Review and strengthen evidence of internal assessments requires strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Evidence of participation in National/Provincial common assessments for Literacy (Languages) requires review.",
+          "recommendation": "Review and strengthen evidence of participation in national/provincial common assessments for literacy (languages) requires review. in relation to this assessment item."
+        },
+        {
+          "title": "Evidence of participation in National/Provincial common assessments for Mathematics requires review.",
+          "recommendation": "Review and strengthen evidence of participation in national/provincial common assessments for mathematics requires review. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "learner-achievements",
+      "number": "2",
+      "section_name": "Section 2: Literacy.",
+      "name": "2. Learners demonstrate effective reading, speaking, listening, and writing  skills in the Language of Learning and Teaching.",
+      "statement": "2. Learners demonstrate effective reading, speaking, listening, and writing  skills in the Language of Learning and Teaching.",
+      "sort_order": 2,
+      "source_improvement_options": [
+        "Learners’ reading comprehension according to their developmental age requires strengthening.",
+        "Learners’ ability to communicate clearly according to their developmental age requires improvement.",
+        "Learners’ listening and receptive skills according to their developmental age require strengthening.",
+        "Learners’ ability to write clearly and construct meaningful sentences requires improvement."
+      ],
+      "suggestions": [
+        {
+          "title": "Learners’ reading comprehension according to their developmental age requires strengthening.",
+          "recommendation": "Review and strengthen learners’ reading comprehension according to their developmental age requires strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Learners’ ability to communicate clearly according to their developmental age requires improvement.",
+          "recommendation": "Review and strengthen learners’ ability to communicate clearly according to their developmental age requires improvement. in relation to this assessment item."
+        },
+        {
+          "title": "Learners’ listening and receptive skills according to their developmental age require strengthening.",
+          "recommendation": "Review and strengthen learners’ listening and receptive skills according to their developmental age require strengthening. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "learner-achievements",
+      "number": "3",
+      "section_name": "Section 3: Numeracy skills.",
+      "name": "3. Learners demonstrate confidence and proficiency in working with numbers,  performing mental calculations, using electronic devices appropriately, and applying mathematical skills to solve problems.",
+      "statement": "3. Learners demonstrate confidence and proficiency in working with numbers,  performing mental calculations, using electronic devices appropriately, and applying mathematical skills to solve problems.",
+      "sort_order": 3,
+      "source_improvement_options": [
+        "Learners’ ability to solve problems involving numbers requires strengthening.",
+        "Learners’ mental mathematics skills require improvement.",
+        "Learners’ ability to use electronic devices to solve mathematical problems requires strengthening.",
+        "Evidence of the school’s efforts to promote mathematical fluency requires further development."
+      ],
+      "suggestions": [
+        {
+          "title": "Learners’ ability to solve problems involving numbers requires strengthening.",
+          "recommendation": "Review and strengthen learners’ ability to solve problems involving numbers requires strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Learners’ mental mathematics skills require improvement.",
+          "recommendation": "Review and strengthen learners’ mental mathematics skills require improvement. in relation to this assessment item."
+        },
+        {
+          "title": "Learners’ ability to use electronic devices to solve mathematical problems requires strengthening.",
+          "recommendation": "Review and strengthen learners’ ability to use electronic devices to solve mathematical problems requires strengthening. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "learner-achievements",
+      "number": "4",
+      "section_name": "Section 4: Barriers to learning.",
+      "name": "4. The school provides appropriate support to learners experiencing barriers to  learning, ensuring that their individual educational needs are identified and addressed.",
+      "statement": "4. The school provides appropriate support to learners experiencing barriers to  learning, ensuring that their individual educational needs are identified and addressed.",
+      "sort_order": 4,
+      "source_improvement_options": [
+        "Diagnostic assessments used to identify barriers to learning require strengthening.",
+        "Developmental support programmes for learners experiencing barriers to learning require further development.",
+        "Evidence of learner improvement following support programmes requires strengthening, particularly in relation to cognitive development."
+      ],
+      "suggestions": [
+        {
+          "title": "Diagnostic assessments used to identify barriers to learning require strengthening.",
+          "recommendation": "Review and strengthen diagnostic assessments used to identify barriers to learning require strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Developmental support programmes for learners experiencing barriers to learning require further development.",
+          "recommendation": "Review and strengthen developmental support programmes for learners experiencing barriers to learning require further development. in relation to this assessment item."
+        },
+        {
+          "title": "Evidence of learner improvement following support programmes requires strengthening, particularly in relation to cognitive development.",
+          "recommendation": "Review and strengthen evidence of learner improvement following support programmes requires strengthening, particularly in relation to cognitive development. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "learner-achievements",
+      "number": "5",
+      "section_name": "Section 5: Extracurricular activities",
+      "name": "5. Learners actively participate in and achieve well in extracurricular activities  as part of the school’s enrichment programme.",
+      "statement": "5. Learners actively participate in and achieve well in extracurricular activities  as part of the school’s enrichment programme.",
+      "sort_order": 5,
+      "source_improvement_options": [
+        "Learner participation in available sporting codes and cultural activities requires strengthening.",
+        "Learner achievement in sports and cultural activities requires improvement.",
+        "Records of learner achievements in all available extracurricular activities require strengthening.",
+        "Evidence of participation at higher levels requires further development."
+      ],
+      "suggestions": [
+        {
+          "title": "Learner participation in available sporting codes and cultural activities requires strengthening.",
+          "recommendation": "Review and strengthen learner participation in available sporting codes and cultural activities requires strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Learner achievement in sports and cultural activities requires improvement.",
+          "recommendation": "Review and strengthen learner achievement in sports and cultural activities requires improvement. in relation to this assessment item."
+        },
+        {
+          "title": "Records of learner achievements in all available extracurricular activities require strengthening.",
+          "recommendation": "Review and strengthen records of learner achievements in all available extracurricular activities require strengthening. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "leadership-management-and-communication",
+      "number": "1",
+      "section_name": "Section 1: SMT",
+      "name": "1. The school management team provides clear direction and effective  leadership to the school.",
+      "statement": "1. The school management team provides clear direction and effective  leadership to the school.",
+      "sort_order": 1,
+      "source_improvement_options": [
+        "The vision statement requires review and strengthening.",
+        "The mission statement requires review and strengthening.",
+        "The optimal utilisation of staff at various levels requires review.",
+        "Job descriptions according to post levels and Master Teacher responsibilities require revision.",
+        "Workload distribution in accordance with PAM requires review.",
+        "Staff duty lists and rosters for each area require strengthening.",
+        "The staff relief timetable requires review and revision.",
+        "Duty lists and rosters for PS staff in each area require review.",
+        "The School Improvement Plan (SIP) for the current year requires review and strengthening."
+      ],
+      "suggestions": [
+        {
+          "title": "The vision statement requires review and strengthening.",
+          "recommendation": "Review and strengthen the vision statement requires review and strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "The mission statement requires review and strengthening.",
+          "recommendation": "Review and strengthen the mission statement requires review and strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "The optimal utilisation of staff at various levels requires review.",
+          "recommendation": "Review and strengthen the optimal utilisation of staff at various levels requires review. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "leadership-management-and-communication",
+      "number": "2",
+      "section_name": "Section 2: SMT and teaching and learning.",
+      "name": "2. The school management team promotes quality teaching and learning  through effective curriculum management.",
+      "statement": "2. The school management team promotes quality teaching and learning  through effective curriculum management.",
+      "sort_order": 2,
+      "source_improvement_options": [
+        "Subject policies per subject and grade require review and strengthening.",
+        "Annual Teaching Plans per subject and grade require review.",
+        "Annual Assessment Plans per subject and grade require review.",
+        "The Annual Assessment Moderation Plan requires strengthening.",
+        "Reporting on learner performance and interventions requires improvement.",
+        "The Curriculum Management System requires review and strengthening."
+      ],
+      "suggestions": [
+        {
+          "title": "Subject policies per subject and grade require review and strengthening.",
+          "recommendation": "Review and strengthen subject policies per subject and grade require review and strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Annual Teaching Plans per subject and grade require review.",
+          "recommendation": "Review and strengthen annual teaching plans per subject and grade require review. in relation to this assessment item."
+        },
+        {
+          "title": "Annual Assessment Plans per subject and grade require review.",
+          "recommendation": "Review and strengthen annual assessment plans per subject and grade require review. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "leadership-management-and-communication",
+      "number": "3",
+      "section_name": "Section 3: Layout plans.",
+      "name": "3. The school has well-developed and effectively implemented school layout  plans.",
+      "statement": "3. The school has well-developed and effectively implemented school layout  plans.",
+      "sort_order": 3,
+      "source_improvement_options": [
+        "The school floor plan requires review and updating.",
+        "Out-of-bound areas should be clearly indicated on the floor plan.",
+        "Records of the status of physical resources, including buildings, grounds and the car park, require strengthening.",
+        "Records of maintenance initiatives undertaken for each area of physical infrastructure require review.",
+        "Plans for preventative maintenance programmes require strengthening."
+      ],
+      "suggestions": [
+        {
+          "title": "The school floor plan requires review and updating.",
+          "recommendation": "Review and strengthen the school floor plan requires review and updating. in relation to this assessment item."
+        },
+        {
+          "title": "Out-of-bound areas should be clearly indicated on the floor plan.",
+          "recommendation": "Review and strengthen out-of-bound areas should be clearly indicated on the floor plan. in relation to this assessment item."
+        },
+        {
+          "title": "Records of the status of physical resources, including buildings, grounds and the car park, require strengthening.",
+          "recommendation": "Review and strengthen records of the status of physical resources, including buildings, grounds and the car park, require strengthening. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "leadership-management-and-communication",
+      "number": "4",
+      "section_name": "Section 4: Quality teaching and learning.",
+      "name": "4. The school management team promotes quality teaching and learning  through effective human resource management.",
+      "statement": "4. The school management team promotes quality teaching and learning  through effective human resource management.",
+      "sort_order": 4,
+      "source_improvement_options": [
+        "Post Establishment for the year (CS)",
+        "Post Establishment for the year (PS)",
+        "Staff Establishment for the year (CS)",
+        "Staff Establishment for the year (PS)",
+        "Professional and educational profile of each staff member (CS)",
+        "Professional, experiential and educational profile of each staff member (PS)",
+        "A list of committees that are operational at the school",
+        "Membership of committees that are established to ensure efficient operations of the school"
+      ],
+      "suggestions": [
+        {
+          "title": "Post Establishment for the year (CS)",
+          "recommendation": "Review and strengthen post establishment for the year (cs) in relation to this assessment item."
+        },
+        {
+          "title": "Post Establishment for the year (PS)",
+          "recommendation": "Review and strengthen post establishment for the year (ps) in relation to this assessment item."
+        },
+        {
+          "title": "Staff Establishment for the year (CS)",
+          "recommendation": "Review and strengthen staff establishment for the year (cs) in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "leadership-management-and-communication",
+      "number": "5",
+      "section_name": "Section 5: Staff relations.",
+      "name": "5. The school management team manages staff relations effectively through  sound disciplinary and dispute resolution practices.",
+      "statement": "5. The school management team manages staff relations effectively through  sound disciplinary and dispute resolution practices.",
+      "sort_order": 5,
+      "source_improvement_options": [
+        "Code of Conduct for CS staff (SACE)",
+        "Code of Conduct for PS staff",
+        "Register of disputes",
+        "Records of Dispute Resolution, per dispute- minutes of meetings",
+        "Records of intervention post dispute resolution, per dispute",
+        "School Management Plan detailing all school activities (Year Plan)",
+        "Minutes of SMT meetings",
+        "Minutes of Staff meetings"
+      ],
+      "suggestions": [
+        {
+          "title": "Code of Conduct for CS staff (SACE)",
+          "recommendation": "Review and strengthen code of conduct for cs staff (sace) in relation to this assessment item."
+        },
+        {
+          "title": "Code of Conduct for PS staff",
+          "recommendation": "Review and strengthen code of conduct for ps staff in relation to this assessment item."
+        },
+        {
+          "title": "Register of disputes",
+          "recommendation": "Review and strengthen register of disputes in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "leadership-management-and-communication",
+      "number": "6",
+      "section_name": "Section 6: Registers",
+      "name": "6 Late-coming / Early departure / Truancy Record",
+      "statement": "6 Late-coming / Early departure / Truancy Record",
+      "sort_order": 6,
+      "source_improvement_options": [
+        "Updated information on SA-SAMS software for each module",
+        "Records of communication with parents / guardians / stake-holders",
+        "Records of communication with District / Head Office",
+        "Registry record of all communication sent out from the school",
+        "Updated School Log Book"
+      ],
+      "suggestions": [
+        {
+          "title": "Updated information on SA-SAMS software for each module",
+          "recommendation": "Review and strengthen updated information on sa-sams software for each module in relation to this assessment item."
+        },
+        {
+          "title": "Records of communication with parents / guardians / stake-holders",
+          "recommendation": "Review and strengthen records of communication with parents / guardians / stake-holders in relation to this assessment item."
+        },
+        {
+          "title": "Records of communication with District / Head Office",
+          "recommendation": "Review and strengthen records of communication with district / head office in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "governance-and-relationships",
+      "number": "1",
+      "section_name": "Section 2: The School Governing Body",
+      "name": "1. The School Governing Body (SGB) is duly constituted and functions effectively  in accordance with its responsibilities.",
+      "statement": "1. The School Governing Body (SGB) is duly constituted and functions effectively  in accordance with its responsibilities.",
+      "sort_order": 1,
+      "source_improvement_options": [
+        "Profiles of each SGB member require review and updating.",
+        "The SGB Constitution requires review and updating.",
+        "The SGB Code of Conduct requires review and updating.",
+        "The SGB Annual Plan/Year Plan requires review and updating.",
+        "Records of attendance at District training sessions and workshops require strengthening.",
+        "Records of attendance at PED training sessions and workshops require strengthening.",
+        "Minutes of SGB meetings require review and proper record-keeping.",
+        "The alignment of SGB members within school committees requires review and strengthening."
+      ],
+      "suggestions": [
+        {
+          "title": "Profiles of each SGB member require review and updating.",
+          "recommendation": "Review and strengthen profiles of each sgb member require review and updating. in relation to this assessment item."
+        },
+        {
+          "title": "The SGB Constitution requires review and updating.",
+          "recommendation": "Review and strengthen the sgb constitution requires review and updating. in relation to this assessment item."
+        },
+        {
+          "title": "The SGB Code of Conduct requires review and updating.",
+          "recommendation": "Review and strengthen the sgb code of conduct requires review and updating. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "governance-and-relationships",
+      "number": "2",
+      "section_name": "Section 2: SGB and strategic direction.",
+      "name": "2. The School Governing Body (SGB) provides the school with clear and  effective strategic direction.",
+      "statement": "2. The School Governing Body (SGB) provides the school with clear and  effective strategic direction.",
+      "sort_order": 2,
+      "source_improvement_options": [
+        "The School Development Plan (SDP) for the current three-year cycle requires review and updating.",
+        "The annual plan indicating joint SGB and staff meetings (CS/PS) requires review.",
+        "Agendas of meetings with staff (CS/PS) require strengthening.",
+        "Attendance registers of meetings with staff (CS/PS) require proper record-keeping.",
+        "Minutes of meetings with staff (CS/PS) require review and strengthening.",
+        "Staff development needs identified through QMS/PMDS require review and appropriate interventions.",
+        "The budget should include intervention programmes identified in the SDP, SIP, APIP, IQMS and PMDS."
+      ],
+      "suggestions": [
+        {
+          "title": "The School Development Plan (SDP) for the current three-year cycle requires review and updating.",
+          "recommendation": "Review and strengthen the school development plan (sdp) for the current three-year cycle requires review and updating. in relation to this assessment item."
+        },
+        {
+          "title": "The annual plan indicating joint SGB and staff meetings (CS/PS) requires review.",
+          "recommendation": "Review and strengthen the annual plan indicating joint sgb and staff meetings (cs/ps) requires review. in relation to this assessment item."
+        },
+        {
+          "title": "Agendas of meetings with staff (CS/PS) require strengthening.",
+          "recommendation": "Review and strengthen agendas of meetings with staff (cs/ps) require strengthening. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "governance-and-relationships",
+      "number": "3",
+      "section_name": "Section 3: Audited financial statements",
+      "name": "3. The School Governing Body (SGB) ensures that audited financial statements  are prepared and, together with the budget and relevant resolutions, are presented to parents at the Annual General Meeting (AGM).",
+      "statement": "3. The School Governing Body (SGB) ensures that audited financial statements  are prepared and, together with the budget and relevant resolutions, are presented to parents at the Annual General Meeting (AGM).",
+      "sort_order": 3,
+      "source_improvement_options": [
+        "Evidence of proper financial management for all budget-related transactions requires strengthening.",
+        "Current and updated audited financial statements require review.",
+        "The AGM should be included in the Year Plan.",
+        "The AGM agenda requires review and proper record-keeping.",
+        "Minutes of AGM meetings require review and proper record-keeping.",
+        "The AGM attendance register requires strengthening.",
+        "Evidence of notices given to parents regarding the annual budget and AGM decisions requires strengthening."
+      ],
+      "suggestions": [
+        {
+          "title": "Evidence of proper financial management for all budget-related transactions requires strengthening.",
+          "recommendation": "Review and strengthen evidence of proper financial management for all budget-related transactions requires strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Current and updated audited financial statements require review.",
+          "recommendation": "Review and strengthen current and updated audited financial statements require review. in relation to this assessment item."
+        },
+        {
+          "title": "The AGM should be included in the Year Plan.",
+          "recommendation": "Review and strengthen the agm should be included in the year plan. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "curriculum-provision-and-resources",
+      "number": "1",
+      "section_name": "Section 1: Curriculum.",
+      "name": "1. The curriculum offered complies with the Curriculum and Assessment Policy  Statement (CAPS) requirements.",
+      "statement": "1. The curriculum offered complies with the Curriculum and Assessment Policy  Statement (CAPS) requirements.",
+      "sort_order": 1,
+      "source_improvement_options": [
+        "The subjects offered at the school require review to ensure alignment with CAPS requirements.",
+        "The allocation of notional/contact time for each subject on the timetable requires review.",
+        "The extension of academic programmes to support learners participating in activities offered by external bodies requires strengthening."
+      ],
+      "suggestions": [
+        {
+          "title": "The subjects offered at the school require review to ensure alignment with CAPS requirements.",
+          "recommendation": "Review and strengthen the subjects offered at the school require review to ensure alignment with caps requirements. in relation to this assessment item."
+        },
+        {
+          "title": "The allocation of notional/contact time for each subject on the timetable requires review.",
+          "recommendation": "Review and strengthen the allocation of notional/contact time for each subject on the timetable requires review. in relation to this assessment item."
+        },
+        {
+          "title": "The extension of academic programmes to support learners participating in activities offered by external bodies requires strengthening.",
+          "recommendation": "Review and strengthen the extension of academic programmes to support learners participating in activities offered by external bodies requires strengthening. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "curriculum-provision-and-resources",
+      "number": "2",
+      "section_name": "Section 2: Curriculum resources.",
+      "name": "2. The school provides appropriate curriculum resources to support effective  teaching and learning.",
+      "statement": "2. The school provides appropriate curriculum resources to support effective  teaching and learning.",
+      "sort_order": 2,
+      "source_improvement_options": [
+        "Appropriate LTSM resources aligned with CAPS require review and strengthening.",
+        "Provision of FET Technical PATs and simulation resources requires strengthening.",
+        "Sufficient LTSM resources, including textbooks or e-books for each learner per subject and grade, require review.",
+        "Supporting resources in the library, laboratories and technical workshops require strengthening.",
+        "Learners’ access to interactive and enhanced learning sites for each subject requires improvement.",
+        "The procurement of approved e-book titles requires review.",
+        "Training of learners on the effective use of tablets for learning requires strengthening.",
+        "Training of educators on the effective use of laptops and tablets for lesson delivery requires strengthening.",
+        "The availability of sufficient resources for educators requires review."
+      ],
+      "suggestions": [
+        {
+          "title": "Appropriate LTSM resources aligned with CAPS require review and strengthening.",
+          "recommendation": "Review and strengthen appropriate ltsm resources aligned with caps require review and strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Provision of FET Technical PATs and simulation resources requires strengthening.",
+          "recommendation": "Review and strengthen provision of fet technical pats and simulation resources requires strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Sufficient LTSM resources, including textbooks or e-books for each learner per subject and grade, require review.",
+          "recommendation": "Review and strengthen sufficient ltsm resources, including textbooks or e-books for each learner per subject and grade, require review. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "curriculum-provision-and-resources",
+      "number": "3",
+      "section_name": "Section 3: Learning and Teaching Support Materials (LTSM).",
+      "name": "3. The school effectively manages the procurement, distribution, and retrieval  of Learning and Teaching Support Materials (LTSM).",
+      "statement": "3. The school effectively manages the procurement, distribution, and retrieval  of Learning and Teaching Support Materials (LTSM).",
+      "sort_order": 3,
+      "source_improvement_options": [
+        "Evidence of staff attendance at LTSM exhibitions requires strengthening.",
+        "Evidence of meetings with subject educators to determine LTSM needs requires strengthening.",
+        "Evidence of LTSM Committee meetings to align LTSM needs with budget allocations requires strengthening.",
+        "Evidence of meetings to prioritise LTSM needs based on stock on hand and budget availability requires strengthening.",
+        "Evidence of the LTSM procurement process requires review.",
+        "Proof of orders and requisition forms requires strengthening.",
+        "Proof of deliveries aligned with orders placed requires strengthening.",
+        "The management plan for LTSM distribution requires review.",
+        "The LTSM Policy should clearly outline retrieval processes.",
+        "The LTSM Policy should clearly outline the retrieval of tablets.",
+        "LTSM stock registers require regular updating.",
+        "Evidence of quarterly LTSM audits requires strengthening."
+      ],
+      "suggestions": [
+        {
+          "title": "Evidence of staff attendance at LTSM exhibitions requires strengthening.",
+          "recommendation": "Review and strengthen evidence of staff attendance at ltsm exhibitions requires strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Evidence of meetings with subject educators to determine LTSM needs requires strengthening.",
+          "recommendation": "Review and strengthen evidence of meetings with subject educators to determine ltsm needs requires strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Evidence of LTSM Committee meetings to align LTSM needs with budget allocations requires strengthening.",
+          "recommendation": "Review and strengthen evidence of ltsm committee meetings to align ltsm needs with budget allocations requires strengthening. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "curriculum-provision-and-resources",
+      "number": "4",
+      "section_name": "Section 4: Participation in exra- and co-curricular activities.",
+      "name": "4. The school’s enrichment programme provides opportunities for learners to  participate in a range of extra- and co-curricular activities.",
+      "statement": "4. The school’s enrichment programme provides opportunities for learners to  participate in a range of extra- and co-curricular activities.",
+      "sort_order": 4,
+      "source_improvement_options": [
+        "Provision and support for learners in a variety of extracurricular activities require strengthening.",
+        "Provision and support for learners in a variety of co-curricular activities require strengthening.",
+        "The skills of sports coaches require review to ensure high-quality coaching.",
+        "The skills of cultural activity coaches require review to ensure high-quality skills development.",
+        "The school timetable for sporting and cultural activities requires review.",
+        "Staff involvement in extracurricular and co-curricular activities should be included in the duty roster.",
+        "The appointment of coaches should be included in the school budget.",
+        "Plans for participation at inter-school, inter-district, provincial and national levels should be included in the school’s Year Plan.",
+        "Evidence of learner achievements in extracurricular and co-curricular activities requires strengthening."
+      ],
+      "suggestions": [
+        {
+          "title": "Provision and support for learners in a variety of extracurricular activities require strengthening.",
+          "recommendation": "Review and strengthen provision and support for learners in a variety of extracurricular activities require strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Provision and support for learners in a variety of co-curricular activities require strengthening.",
+          "recommendation": "Review and strengthen provision and support for learners in a variety of co-curricular activities require strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "The skills of sports coaches require review to ensure high-quality coaching.",
+          "recommendation": "Review and strengthen the skills of sports coaches require review to ensure high-quality coaching. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "curriculum-provision-and-resources",
+      "number": "5",
+      "section_name": "Section 5:Curriculum Information",
+      "name": "5. The school establishes and maintains a relevant and up-to-date Curriculum  Information Management System database.",
+      "statement": "5. The school establishes and maintains a relevant and up-to-date Curriculum  Information Management System database.",
+      "sort_order": 5,
+      "source_improvement_options": [
+        "Records of the school’s participation in departmental support programmes require strengthening.",
+        "Records of teacher availability per subject (SA-SAMS) require review.",
+        "Records of teacher qualifications per subject (HR Persal/SA-SAMS) require updating.",
+        "Records of enrolment statistics per subject and grade (SA-SAMS/EMIS) require strengthening.",
+        "Records of quarterly results per subject and grade (SA-SAMS) require strengthening.",
+        "Records of preliminary examination results per subject (SA-SAMS) require strengthening."
+      ],
+      "suggestions": [
+        {
+          "title": "Records of the school’s participation in departmental support programmes require strengthening.",
+          "recommendation": "Review and strengthen records of the school’s participation in departmental support programmes require strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "Records of teacher availability per subject (SA-SAMS) require review.",
+          "recommendation": "Review and strengthen records of teacher availability per subject (sa-sams) require review. in relation to this assessment item."
+        },
+        {
+          "title": "Records of teacher qualifications per subject (HR Persal/SA-SAMS) require updating.",
+          "recommendation": "Review and strengthen records of teacher qualifications per subject (hr persal/sa-sams) require updating. in relation to this assessment item."
+        }
+      ]
+    },
+    {
+      "area_slug": "curriculum-provision-and-resources",
+      "number": "6",
+      "section_name": "Section 6: Curriculum support",
+      "name": "6. The school maintains effective curriculum structures to provide ongoing  curriculum support to subject teachers.",
+      "statement": "6. The school maintains effective curriculum structures to provide ongoing  curriculum support to subject teachers.",
+      "sort_order": 6,
+      "source_improvement_options": [
+        "The school’s School Assessment Team Committees require review and strengthening.",
+        "The school’s subject committees require review and strengthening.",
+        "The Professional Learning Committees (PLCs) require review and strengthening.",
+        "Minutes of meetings of all structures require proper record-keeping.",
+        "Records of strategies implemented to improve learner performance per subject require strengthening.",
+        "Evidence of needs-based content workshops requires strengthening.",
+        "Informal INSET programmes to address content gaps per subject require review and strengthening.",
+        "Attendance registers for INSET programmes require proper record-keeping.",
+        "SMT reports on the impact of informal INSET programmes on teacher and learner performance require strengthening."
+      ],
+      "suggestions": [
+        {
+          "title": "The school’s School Assessment Team Committees require review and strengthening.",
+          "recommendation": "Review and strengthen the school’s school assessment team committees require review and strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "The school’s subject committees require review and strengthening.",
+          "recommendation": "Review and strengthen the school’s subject committees require review and strengthening. in relation to this assessment item."
+        },
+        {
+          "title": "The Professional Learning Committees (PLCs) require review and strengthening.",
+          "recommendation": "Review and strengthen the professional learning committees (plcs) require review and strengthening. in relation to this assessment item."
+        }
+      ]
+    }
+  ]
+}
